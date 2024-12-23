@@ -8,4 +8,4 @@ Existing segmentation models have been developed into dense prediction or IoU-ba
 
 After dividing the input drawing into patches, we propose a graph segment model by using each patch as a graph node.
 
-<img src="./images/model.png" width="500px"></img>
+<img src="./grapgics/model.png" width="500px"></img>
