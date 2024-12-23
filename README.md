@@ -26,6 +26,9 @@ $ pip install -r requirements.txt
 ## Train
 
 Once you have placed your data in the appropriate folder, run the code via the provided bash file.
+You can adjust the number of GPUs in the run_train.sh file, and set the number of workers, servers, etc.
 ```bash
-$ bash 
+$ bash run_train.sh
 ```
+
+
