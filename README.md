@@ -31,4 +31,6 @@ You can adjust the number of GPUs in the run_train.sh file, and set the number o
 $ bash run_train.sh
 ```
 
+## Results
 
+<img src="./graphics/results.png" width="500px"></img>
