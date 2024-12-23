@@ -18,10 +18,14 @@ $ python -m venv myenv
 $ source myenv/bin/activate
 $ deactivate
 ```
+requierments install 
+```bash
+$ pip install -r requirements.txt
+```
 
-requierments
-================
-test |
-test |
-test |
-================
+## Train
+
+Once you have placed your data in the appropriate folder, run the code via the provided bash file.
+```bash
+$ bash 
+```
