@@ -9,3 +9,19 @@ Existing segmentation models have been developed into dense prediction or IoU-ba
 After dividing the input drawing into patches, we propose a graph segment model by using each patch as a graph node.
 
 <img src="./graphics/model.png" width="800px"></img>
+
+## Install
+
+Install venvs with python
+```bash
+$ python -m venv myenv
+$ source myenv/bin/activate
+$ deactivate
+```
+
+requierments
+================
+test |
+test |
+test |
+================
